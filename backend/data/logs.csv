@@ -1,0 +1,105 @@
+timestamp,function,message,args,kwargs
+2025-08-14 12:40:38.295683,add_customer,Added k,"('k', '4534675499', 'Pote galli')",{}
+2025-08-14 13:45:17.963405,add_customer,Added l,"('l', '1234432123', '')",{}
+2025-08-14 13:57:17.277473,add_customer,Added k,"('k', '1234567893', '')",{}
+2025-08-14 14:50:06.980432,add_customer,Added k,"('k', '3456765454', '')",{}
+2025-08-14 14:51:05.041611,add_customer,Added jh,"('jh', '8767989887', '')",{}
+2025-08-14 14:54:05.349944,delete_all_customers,Deleted all customers,(),{}
+2025-08-14 16:26:59.087280,add_customer,Added Sumeet Popat Kamble,"('Sumeet Popat Kamble', '8999861169', '')",{}
+2025-08-14 16:40:44.264312,update_due,Updated due for ID=1,"(1, 500.0)",{}
+2025-08-14 16:48:50.419331,update_due,Updated due for ID=1,"(1, 500.0)",{}
+2025-08-14 16:51:25.285055,update_due,Updated due for ID=1,"(1, 800.0)",{}
+2025-08-14 20:56:02.909376,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-14 23:30:39.753782,add_customer,Added sumit,"('sumit', '8999860116', '')",{}
+2025-08-14 23:32:40.243087,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-14 23:35:48.293045,add_customer,Added Sumit,"('Sumit', '8999860117', '')",{}
+2025-08-14 23:37:21.200321,update_due,Updated due for ID=1,"(1, 777.0)",{}
+2025-08-14 23:37:46.697958,update_due,Updated due for ID=1,"(1, 777.0)",{}
+2025-08-14 23:38:15.608499,update_due,Updated due for ID=1,"(1, 800.0)",{}
+2025-08-14 23:38:36.296582,update_due,Updated due for ID=1,"(1, 800.0)",{}
+2025-08-14 23:39:12.001979,update_due,Updated due for ID=1,"(1, 100.0)",{}
+2025-08-14 23:52:39.315139,update_due,Updated due for ID=1,"(1, 500.0)",{}
+2025-08-14 23:53:50.688479,update_due,Updated due for ID=1,"(1, 600.0)",{}
+2025-08-14 23:54:42.237188,update_due,Updated due for ID=1,"(1, 700.0)",{}
+2025-08-15 11:45:13.344629,update_due,Updated due for ID=1,"(1, 800.0)",{}
+2025-08-15 11:50:04.485734,delete_all_customers,Deleted all customers,(),{}
+2025-08-15 11:50:19.403673,add_customer,Added ff,"('ff', '1234567887', '')",{}
+2025-08-15 11:55:23.200094,update_due,Updated due for ID=1,"(1, 700.0)",{}
+2025-08-17 02:15:39.999093,delete_all_customers,Deleted all customers,(),{}
+2025-08-17 16:35:36.165540,update_due,Updated due for ID=1,"(1, 500.0)",{}
+2025-08-18 02:10:26.594572,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 02:15:14.460305,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 02:22:34.882594,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 02:23:20.975505,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 02:43:20.201170,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 08:24:52.894701,delete_customer,Deleted ID=3,"(3,)",{}
+2025-08-18 08:24:57.288429,delete_customer,Deleted ID=4,"(4,)",{}
+2025-08-18 08:25:01.820844,delete_customer,Deleted ID=5,"(5,)",{}
+2025-08-18 08:25:06.884058,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 08:26:45.249675,add_customer,Added dd,"('dd', '1234567899', '')",{}
+2025-08-18 08:27:21.551323,add_customer,Added smit,"('smit', '1234567855', '')",{}
+2025-08-18 08:27:51.273018,update_due,Updated due for ID=1,"(1, 1000.0)",{}
+2025-08-18 08:29:18.672748,add_customer,Added g,"('g', '4323456766', '')",{}
+2025-08-18 08:46:00.626141,partial_payment,Partial payment for ID=1,"(1, 778.0)",{}
+2025-08-18 08:46:26.687136,update_due,Updated due for ID=1,"(1, 2000.0)",{}
+2025-08-18 08:48:25.829777,update_due,Updated due for ID=1,"(1, 2222.0)",{}
+2025-08-18 08:52:10.486982,partial_payment,Partial payment for ID=1,"(1, 1667.0)",{}
+2025-08-18 09:08:32.585769,add_customer,Added ffff,"('ffff', '7878765444', '')",{}
+2025-08-18 11:59:05.627084,add_customer,Added pranav,"('pranav', '1234567899', '')",{}
+2025-08-18 11:59:06.090217,add_customer,Added pranav,"('pranav', '1234567899', '')",{}
+2025-08-18 11:59:54.273967,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 11:59:58.815792,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 12:00:30.182012,add_customer,Added gg,"('gg', '7676767676', '')",{}
+2025-08-18 12:04:00.549078,add_customer,Added kk,"('kk', '7890588421', '')",{}
+2025-08-18 12:04:35.941308,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 12:04:40.432172,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 12:05:14.190058,add_customer,Added uu,"('uu', '8999860116', '')",{}
+2025-08-18 12:07:31.550569,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 12:09:22.504801,add_customer,Added k,"('k', '1234567854', '')",{}
+2025-08-18 12:28:57.215820,update_due,Updated due for ID=1,"(1, 888.0)",{}
+2025-08-18 12:36:07.228777,update_due,Updated due for ID=1,"(1, 9000.0)",{}
+2025-08-18 12:43:51.320104,add_customer,Added gg,"('gg', '4455665544', '')",{}
+2025-08-18 12:44:15.952483,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 12:44:20.275530,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 12:44:43.912874,add_customer,Added ee,"('ee', '4545676788', '')",{}
+2025-08-18 12:55:08.143361,add_customer,Added y,"('y', '1234432112', '')",{}
+2025-08-18 12:57:53.189931,update_due,Updated due for ID=1,"(1, 666.0)",{}
+2025-08-18 12:58:12.696,update_due,Updated due for ID=1,"(1, 7777.0)",{}
+2025-08-18 12:58:37.871642,partial_payment,Partial payment for ID=1,"(1, 2777.0)",{}
+2025-08-18 12:59:17.650394,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 12:59:21.724765,delete_customer,Deleted ID=2,"(2,)",{}
+2025-08-18 12:59:25.875628,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 12:59:55.748310,add_customer,Added ggi,"('ggi', '1234567890', '')",{}
+2025-08-18 13:00:17.095235,partial_payment,Partial payment for ID=1,"(1, 266.0)",{}
+2025-08-18 13:00:52.515132,update_due,Updated due for ID=1,"(1, 700.0)",{}
+2025-08-18 13:01:06.513513,partial_payment,Partial payment for ID=1,"(1, 200.0)",{}
+2025-08-18 13:06:09.077247,update_due,Updated due for ID=1,"(1, 1000.0)",{}
+2025-08-18 13:06:26.934063,partial_payment,Partial payment for ID=1,"(1, 400.0)",{}
+2025-08-18 13:12:12.537329,update_due,Updated due for ID=1,"(1, 1000.0)",{}
+2025-08-18 13:12:24.296937,partial_payment,Partial payment for ID=1,"(1, 999.0)",{}
+2025-08-18 13:16:50.104875,update_due,Updated due for ID=1,"(1, 10000.0)",{}
+2025-08-18 13:17:03.796056,partial_payment,Partial payment for ID=1,"(1, 999.0)",{}
+2025-08-18 13:46:35.741789,add_customer,Added Sumit Kmable,"('Sumit Kmable', '8999860116', '')",{}
+2025-08-18 13:47:27.680694,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 13:47:31.775798,delete_customer,Deleted ID=2,"(2,)",{}
+2025-08-18 13:47:36.071334,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 13:48:07.978171,add_customer,Added Sumit kamble,"('Sumit kamble', '8999860116', '')",{}
+2025-08-18 14:18:09.449939,add_customer,Added Sumit,"('Sumit', '8976567867', '')",{}
+2025-08-18 15:39:51.508754,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 15:39:51.910187,delete_customer,Deleted ID=2,"(2,)",{}
+2025-08-18 15:39:51.924739,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 16:19:24.799519,add_customer,Added Sumit Kamble,"('Sumit Kamble', '8999860116', '')",{}
+2025-08-18 16:24:24.507688,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 16:24:29.318065,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 16:28:22.363388,add_customer,Added Sumit Kamble,"('Sumit Kamble', '8999860116', '')",{}
+2025-08-18 16:29:15.927559,add_customer,Added Pranav Khilari,"('Pranav Khilari', '9786780976', '')",{}
+2025-08-18 16:38:29.539361,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 16:38:34.039825,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 16:39:40.897131,add_customer,Added Sumit Kamble,"('Sumit Kamble', '8999860116', '')",{}
+2025-08-18 16:40:51.447628,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 16:40:56.064277,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 16:42:48.820260,add_customer,Added Sumit Kamble,"('Sumit Kamble', '8999860116', '')",{}
+2025-08-18 16:47:30.474622,delete_customer,Deleted ID=1,"(1,)",{}
+2025-08-18 16:47:34.793004,delete_all_customers,Deleted all customers,(),{}
+2025-08-18 16:59:33.130097,add_customer,Added Sumit Kamble,"('Sumit Kamble', '8999860116', '')",{}
+2025-08-19 07:26:46.628698,add_customer,Added ss,"('ss', '2345678976', '')",{}

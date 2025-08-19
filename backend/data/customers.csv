@@ -1,0 +1,2 @@
+id,name,phone,email,address,due,last_update,status,added_at,username,password,plain_password
+1,ss,2345678976,sumeetkamble0116@gmail.com,,600.0,2025-08-19 07:26:46,active,2025-08-19 07:26:46,uyjuchw5,scrypt:32768:8:1$sSXvw64H0dvee2RW$e618b617d9dd7f848c189a09df77ff1353bee91579a1796d50d5ffa102e781ac8a0b2fe1a2b5e755034aee9c6f8550bfe585ef33c4b3270e3354fa61792d0592,O1EZwcbl
